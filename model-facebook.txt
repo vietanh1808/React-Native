@@ -1,0 +1,27 @@
+các dạng bài viết:
+1. chỉ chữ
+2. chỉ ảnh
+3. chỉ video
+4. chỉ bài đọc kèm link
+2. chữ + ảnh
+3. chữ + video
+4. chữ + bài đọc kèm link
+
+==> 1 new_feed:
+------ HEADER --------
+1. tên-trạng thái (name-status)
+2. ngày tạo (created-time) 
+3. ảnh đại diện (avatar)
+4. nút other (button other)
+----- END HEADER -----
+------ CONTENT -------
+1. chữ (caption)
+2. ảnh / video / link bài đọc (type post & content post)
+3. subcontent: title ,subtitle, desciption, button,
+----- END CONTENT ----
+----- INTERACTION ----
+1. icon: ['like', 'love', 'care', 'haha', 'sad', 'angry']
+2. like-comments-share score
+3. like-comments-share button
+----- END -------------
+
